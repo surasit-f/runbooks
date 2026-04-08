@@ -8,14 +8,13 @@
 ---
 
 ## What Happened
-5xx error rate > 5% within 5 minutes  
-Indicates rapid error budget consumption
+5xx error rate > 5% over 5 minutes
 
 ---
 
 ## Impact
 - Users receive server errors
-- Possible outage
+- API may be partially or fully unavailable
 
 ---
 
