@@ -1,4 +1,4 @@
-# APIFastBurnRate
+# APIHighErrorRateFast
 
 ## Overview
 - Service: mercury-api
